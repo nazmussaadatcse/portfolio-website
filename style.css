@@ -22,6 +22,12 @@ h3{
 .deep-blue{
     color: #9900ff;
 }
+.deep-white{
+    color: white;
+}
+.deep-or{
+    color: orange;
+}
 .flexible-container{
     display: flex;
     margin-bottom: 20px;
@@ -115,13 +121,15 @@ h3{
 }
 footer p{
     text-align: center;
+    font-weight: 400;
 }
 footer h2{
     text-align: center;
 
 }
 .foott{
-    background-color: #9dedfc;
+    background-color: black;
     column-gap: normal;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100px;
 }
